@@ -1,0 +1,8 @@
+/Users/ronny0_o/Documents/TG_Ronald/B1GPS/build/CMakeFiles/install/local.dir
+/Users/ronny0_o/Documents/TG_Ronald/B1GPS/build/CMakeFiles/install/strip.dir
+/Users/ronny0_o/Documents/TG_Ronald/B1GPS/build/CMakeFiles/install.dir
+/Users/ronny0_o/Documents/TG_Ronald/B1GPS/build/CMakeFiles/list_install_components.dir
+/Users/ronny0_o/Documents/TG_Ronald/B1GPS/build/CMakeFiles/rebuild_cache.dir
+/Users/ronny0_o/Documents/TG_Ronald/B1GPS/build/CMakeFiles/edit_cache.dir
+/Users/ronny0_o/Documents/TG_Ronald/B1GPS/build/CMakeFiles/B1.dir
+/Users/ronny0_o/Documents/TG_Ronald/B1GPS/build/CMakeFiles/exampleB1.dir

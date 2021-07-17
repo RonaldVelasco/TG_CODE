@@ -1,0 +1,12 @@
+/run/initialize
+/gps/particle ion
+/gps/ion 88 223
+/gps/energy 0
+/gps/pos/type Volume
+/gps/pos/shape Cylinder
+/gps/pos/radius 17.9 mm
+/gps/pos/centre 0. -5. 0. mm
+/gps/pos/halfz 4. mm
+/gps/pos/rot2 0 0 1
+/gps/confine moneda_agua
+#/run/beamOn 10000
